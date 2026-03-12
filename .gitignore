@@ -1,0 +1,22 @@
+.env
+.env.local
+.venv/
+.scannerwork/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated lesson output
+lessons/
+
+# OS/editor noise
+.DS_Store
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Misc local caches
+.mypy_cache/
